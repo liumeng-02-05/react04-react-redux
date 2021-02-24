@@ -6,7 +6,8 @@ import {CHANGE_VALUE,ADD_ITEM,DELETE_ITEM} from './store/constant'
 import store from './store'
 
 import './index.css'
-
+// git@github.com:liumeng-02-05/react04-react-redux.git
+// git@github.com:liumeng-02-05/react04-react-redux.git
 class TodoList extends Component {
   constructor(props) {
     super(props);
