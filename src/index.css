@@ -1,0 +1,12 @@
+.todolist{
+  width: 400px;
+  height:300px;
+}
+.input{
+  margin: 10px !important;
+  display: flex;
+  justify-content: flex-start;
+}
+.listInfo{
+  margin: 10px;
+}
